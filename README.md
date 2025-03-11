@@ -15,4 +15,5 @@ A lo largo de mi trayectoria, he comprobado el **poder del análisis de datos pa
 
 ## 📫 Conéctate conmigo  
 https://github.com/VirginiaCanoData
+
 https://www.linkedin.com/in/virginia-cano-fernandez/
