@@ -14,3 +14,5 @@ A lo largo de mi trayectoria, he comprobado el **poder del análisis de datos pa
 📌 Además, tengo un gran interés en **sostenibilidad y economía circular**, donde el análisis de datos puede generar un impacto positivo y soluciones eficientes.  
 
 ## 📫 Conéctate conmigo  
+https://github.com/VirginiaCanoData
+https://www.linkedin.com/in/virginia-cano-fernandez/
